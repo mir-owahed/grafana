@@ -1,0 +1,7 @@
+	wget https://dl.grafana.com/oss/release/grafana-10.2.0.linux-amd64.tar.gz
+  tar -zxvf grafana-10.2.0.linux-amd64.tar.gz
+  ls
+  cd grafana-10.2.0/
+  ls
+  ls -l
+  ./bin/grafana-server 
